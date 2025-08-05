@@ -17,8 +17,12 @@
             background-color: #027e23;
             color: rgba(255, 255, 255, 0);
             text-align: center;
-            padding: 20px
-                
+            padding: 20px;
+        }
+        .logo img {
+            width: 100px;
+            height: auto;
+        }
         .cta-button {
             background-color: #048b04;
             color: rgba(253, 245, 245, 0.954);
@@ -79,7 +83,7 @@
 <body>
     <header>
         <div class="logo">
-            <img src="logo-placeholder.png" alt="Logo Sate Ayam Berkah Ilahi">
+         alt="Logo Sate Ayam Berkah Ilahi">
         </div>
         <h1>Sate Ayam Berkah Ilahi</h1>
         <p>Cita Rasa Khas Racikan Pak De Ali, Bumbunya Meresap Sampai ke Hati!</p>

@@ -1,0 +1,99 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #fbfaf701;
+    color: #4F2E2A;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 50px 20px;
+    background-image: url('SPANDUK.png'); /* Ganti dengan URL gambar latar belakang */
+    background-size: cover; /* Mengatur gambar agar menutupi seluruh area */
+    background-position: center; /* Memusatkan gambar */
+    color: rgba(235, 229, 229, 0); /* Mengubah warna teks menjadi putih untuk kontras */
+    border-bottom: 5px solid #00960f; /* Garis bawah */
+}
+
+.logo img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin: 10px 0;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+.cta-button {
+    background-color: #009e25;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1.2em;
+}
+
+.keunggulan {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.keunggulan-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.keunggulan-item {
+    width: 30%;
+}
+
+.menu {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.menu-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu-item {
+    width: 45%;
+    text-align: center;
+}
+
+.order-button {
+    background-color: #d30606;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.galeri {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.galeri-container {
+    display: flex;
+    justify-content: center;
+}
+
+.galeri-container img {
+    width: 30%;
+    margin: 0 10px;
+}
+
+footer {
+    background-color: #4F2E2A;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}

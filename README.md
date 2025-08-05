@@ -17,12 +17,8 @@
             background-color: #027e23;
             color: rgba(255, 255, 255, 0);
             text-align: center;
-            padding: 20px;
-        }
-        .logo img {
-            width: 100px;
-            height: auto;
-        }
+            padding: 20px
+                
         .cta-button {
             background-color: #048b04;
             color: rgba(253, 245, 245, 0.954);
